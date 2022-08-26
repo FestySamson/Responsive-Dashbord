@@ -1,0 +1,90 @@
+.meeting{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.date2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+    align-items: center;
+}
+.june2{
+    display: flex;
+    gap: 10px;
+}
+.june2 p{
+    font-family: fontE;
+}
+.date2 h4{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: fontA;
+}
+.all-date{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 10px;
+    background-color: rgb(255, 233, 237);
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.time{
+    width: 45%;
+    height: 220px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.mon{
+    width: 60px;
+    height: 60px;
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+.day{
+    font-family: fontB;
+    margin-bottom: 10px;
+}
+.t3{
+    font-family: fontB;
+}
+.wen{
+    font-family: fontA;
+    color: rgb(173, 172, 172);
+    margin-bottom: 25px;
+}
+.time1{
+    width: 45%;
+    height: 220px;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.mon2{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
